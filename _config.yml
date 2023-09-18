@@ -44,8 +44,8 @@ social:
     - https://twitter.com/norrriey # change to your twitter homepage
     - https://github.com/norrriey # change to your github homepage
     # Uncomment below to add more social links
-    https://www.instagram.com/norrriey
-    https://norrriey.tumblr.com
+    - https://www.instagram.com/norrriey
+    - https://norrriey.tumblr.com
 
 
 google_site_verification: # fill in to your verification string
