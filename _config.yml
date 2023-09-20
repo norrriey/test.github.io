@@ -116,6 +116,7 @@ pwa:
 paginate: 10
 
 imagesurl: "/test.github.io/art-portfolio"
+thumbsurl: "test.github.io/art-portfolio"
 
 # ------------ The following options are not recommended to be modified ------------------
 
